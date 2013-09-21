@@ -82,7 +82,6 @@
     <Compile Include="ServiceBusConnection.cs" />
     <Compile Include="ServiceBusMessageBus.cs" />
     <Compile Include="ServiceBusScaleoutConfiguration.cs" />
-    <Compile Include="ServiceBusSubscription.cs" />
     <Compile Include="SubscriptionContext.cs" />
   </ItemGroup>
   <ItemGroup>
